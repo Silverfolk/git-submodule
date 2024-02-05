@@ -1,0 +1,3 @@
+[submodule "workshop"]
+	path = workshop
+	url = https://github.com/Silverfolk/Workshop-0-1
